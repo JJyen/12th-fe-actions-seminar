@@ -15,6 +15,7 @@ function App() {
         >
           블로그 구경하기
         </a>
+        <a header="https://www.naver.com/">네이버</a>
       </header>
     </div>
   );
