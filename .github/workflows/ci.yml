@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: ["main"]
 
-job:
+jobs:
   # 1. Build 명령어 실행으로 빌드 가능 여부 검증
   build-test:
     runs-on: ubuntu-20.04
